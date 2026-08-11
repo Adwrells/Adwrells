@@ -164,6 +164,12 @@ My contribution patterns, language mix, and consistency at a glance.
 
 ![Commit Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Adwrells&theme=tokyonight)
 
+### Contribution Activity
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Adwrells&theme=tokyo-night&hide_border=false&area=true)
+
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Adwrells&theme=tokyonight&utcOffset=-4)
+
 ---
 
 ### 💡 What These Stats Show
@@ -173,7 +179,7 @@ My contribution patterns, language mix, and consistency at a glance.
 - **Consistency** – Ongoing contribution streaks rather than one-off bursts
 - **Collaboration** – The mix of commits and PRs reflects both solo builds and team workflows
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Adwrells&color=0369a1&style=flat-square&label=Profile+Views)](https://github.com/Adwrells)
+[![Profile Views](https://komarev.com/ghpvc/?username=Adwrells&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/Adwrells)
 
 ---
 
