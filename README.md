@@ -85,13 +85,46 @@ Production-grade fairness metrics system for clinical ML models:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Activity
 
-![Amit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adwrells&show_icons=true&theme=tokyonight)
+My contribution patterns, language mix, and consistency at a glance.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adwrells&layout=compact&theme=tokyonight)
+<!--
+  NOTE: the public github-readme-stats.vercel.app instance is frequently rate-limited
+  (returns HTTP 503 / "Maximum retries exceeded"), which is why the classic stats and
+  top-langs cards render as broken images. The cards below use github-profile-summary-cards
+  and streak-stats, which are served from independent infrastructure.
+  To bring the classic cards back, self-host github-readme-stats on your own Vercel account
+  with a PAT_1 env var and swap the hostname in the URLs.
+-->
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Adwrells&theme=tokyonight)
+### Overall Statistics
+
+![Amit's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adwrells&theme=tokyonight)
+
+### Most Used Languages
+
+<p>
+  <img width="49%" alt="Languages by repository" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Adwrells&theme=tokyonight" />
+  <img width="49%" alt="Languages by commit volume" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Adwrells&theme=tokyonight" />
+</p>
+
+### Contribution Consistency
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Adwrells&theme=tokyonight&hide_border=false)
+
+![Commit Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Adwrells&theme=tokyonight)
+
+---
+
+### 💡 What These Stats Show
+
+- **Activity** – Total commits, pull requests, and issues across public repositories
+- **Languages** – Primary focus on Python and Jupyter Notebook for analytics work, with TypeScript/HTML for dashboards and web delivery
+- **Consistency** – Ongoing contribution streaks rather than one-off bursts
+- **Collaboration** – The mix of commits and PRs reflects both solo builds and team workflows
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Adwrells&color=0369a1&style=flat-square&label=Profile+Views)](https://github.com/Adwrells)
 
 ---
 
