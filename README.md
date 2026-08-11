@@ -1,1 +1,163 @@
-Data Scientist specializing in AI fairness, bias detection, and healthcare AI governance. Building trustworthy ML systems. Master of Data Analytics (UNFC) • 4.0 GPA • Platform & Operations Lead @ Synod Intellicare
+# 👋 Hi, I'm Amit Raj
+
+**Data Scientist • AI Fairness & Governance • Healthcare Analytics Platform Builder**
+
+Building trustworthy, transparent data systems that prioritize fairness in machine learning. Master of Data Analytics student @ UNFC | Platform & Operations Lead @ Synod Intellicare | 4.0 GPA (President's List)
+
+---
+
+## 🎯 What I'm Focused On
+
+- **AI Fairness & Bias Detection** – Implementing industry-standard fairness metrics in production systems
+- **Healthcare AI Governance** – Building compliance-ready clinical decision support with comprehensive bias auditing
+- **Data-Driven Platforms** – End-to-end: Python pipelines → Flask APIs → Docker → AWS → CI/CD automation
+- **Agile Data Science** – Product Owner role managing analytics workflows with Scrum methodology
+
+---
+
+## 🏥 Featured Projects
+
+### Toronto Crime Indicators Analytics Tool
+*Python • Streamlit • Agile (Scrum)*
+- Product Owner managing 16 user stories across 2 disciplined sprints
+- Predictive analytics dashboard for crime trend analysis
+- Full APA technical report and peer/self-evaluation
+- TDD-driven development with continuous refactoring
+
+**Repo:** [Toronto_Crime_Indicators_Analysis](https://github.com/Adwrells/Toronto_Crime_Indicators_Analysis)
+
+---
+
+### Healthcare Analytics Platform (Capstone)
+*Python • Streamlit • Healthcare Data • Statistical Analysis*
+
+A full-stack analytics platform for Emergency Department (ED) performance, built for the DAMO-699 capstone at the University of Niagara Falls Canada. The system ingests Canadian Institute for Health Information (CIHI) emergency department data and delivers:
+- Statistical hypothesis testing
+- Throughput forecasting  
+- Executive dashboards
+- Exportable clinical reports
+
+**Repo:** [Capstone_Project-DAMO-6994](https://github.com/Adwrells/Capstone_Project-DAMO-6994-)
+
+---
+
+### DDFA Platform – Healthcare AI Fairness Assessment
+*Python • Flask • AWS • Docker • GitHub Actions • SQL* (In Development)
+
+Production-grade fairness metrics system for clinical ML models:
+- Real-time bias detection dashboard (Plotly.js)
+- Demographic Parity, Disparate Impact, Equalized Odds
+- Automated data validation pipelines
+- AWS CodeDeploy integration for zero-downtime deployments
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML/CSS](https://img.shields.io/badge/HTML/CSS-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+
+### Data & ML
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white)
+
+### Backend & Web
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088F0?style=for-the-badge&logo=github-actions&logoColor=white)
+
+### Analytics & Dashboards
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 📊 GitHub Stats
+
+![Amit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adwrells&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adwrells&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Adwrells&theme=tokyonight)
+
+---
+
+## 🌟 Why Fairness?
+
+Bias in machine learning isn't theoretical—it directly impacts real lives in healthcare, lending, hiring, and criminal justice. I'm building systems that make fairness measurable, auditable, and enforceable. Every ML model should come with fairness metrics, just like we measure accuracy.
+
+---
+
+## 📚 Skills Breakdown
+
+| Category | Skills |
+|----------|--------|
+| **Machine Learning** | Classification, Regression, PCA, Fairness Metrics, Feature Engineering, Model Evaluation |
+| **Data Engineering** | ETL Pipelines, Data Validation, Synthea Simulation, Data Quality Assurance |
+| **Analytics** | EDA, Statistical Analysis, Hypothesis Testing, Dashboard Design |
+| **Software Engineering** | API Development (Flask), CI/CD, Cloud Architecture (AWS), Containerization |
+| **Healthcare AI** | Clinical Data Analysis, Bias Auditing, Compliance Monitoring, HIPAA Fundamentals |
+| **Agile** | Product Owner, Scrum, User Story Writing, Sprint Planning, Taiga |
+
+---
+
+## 🚀 Currently Learning
+
+- Advanced causal inference & counterfactual fairness
+- LLM-based data pipelines and prompt engineering
+- Cybersecurity in data systems
+- Production ML monitoring & observability
+
+---
+
+## 🎓 Education & Background
+
+**Master of Data Analytics (MDA)**  
+University of Niagara Falls Canada | In Progress  
+*President's Academic Distinction List (4.0 GPA)*
+
+**B.E. Electronics & Communication Engineering**  
+Completed 2020
+
+**5+ Years IT Experience** (Prior to MDA)  
+Systems administration, infrastructure, cloud fundamentals
+
+---
+
+## 🔗 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amitdevraj/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=globe&logoColor=white)](https://amitrajdev.com.np)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adwrells@gmail.com)
+
+**Interested in:**
+- Fairness-focused ML projects
+- Healthcare AI governance  
+- Data science collaboration
+- Mentoring on Python & analytics
+
+---
+
+## ❤️ Beyond Code
+
+- Anime enthusiast (One Piece, Dragon Ball Z)
+- Home cook experimenting with global cuisines
+- Open-source advocate & passionate about ethical AI
+- 5+ years in IT before transitioning to data science
+
+---
+
+*Built with ❤️ • Data scientist focused on fairness, governance, and impact*
