@@ -1,12 +1,12 @@
-# 👋 Hi, I'm Amit Raj
+# 👋 Amit Raj
 
 **Data Scientist • AI Fairness & Governance • Healthcare Analytics Platform Builder**
 
-Building trustworthy, transparent data systems that prioritize fairness in machine learning. Master of Data Analytics student @ UNFC | Platform & Operations Lead @ Synod Intellicare | 4.0 GPA (President's List)
+Amit builds trustworthy, transparent data systems that prioritize fairness in machine learning. Master of Data Analytics student @ UNFC | Platform & Operations Lead @ Synod Intellicare | 4.0 GPA (President's List)
 
 ---
 
-## 🎯 What I'm Focused On
+## 🎯 Areas of Focus
 
 - **AI Fairness & Bias Detection** – Implementing industry-standard fairness metrics in production systems
 - **Healthcare AI Governance** – Building compliance-ready clinical decision support with comprehensive bias auditing
@@ -31,7 +31,7 @@ Building trustworthy, transparent data systems that prioritize fairness in machi
 ### Supply Chain Shipment Summary Tool
 *Python • pandas • Matplotlib • pytest • Agile (Scrum) • Taiga*
 
-A modular Python package that ingests a health-commodity shipment dataset (ARVs and HIV rapid test kits) and turns it into reusable summary functions — built as **Product Owner** across a disciplined one-week Agile sprint with a 4-person team.
+A modular Python package that ingests a health-commodity shipment dataset (ARVs and HIV rapid test kits) and turns it into reusable summary functions — built by Amit as **Product Owner** across a disciplined one-week Agile sprint with a 4-person team.
 
 - Installable `shipment_tool` package: loader plus country, vendor, and product-group summary modules
 - Data cleaning for real-world messiness — missing values, non-numeric text in cost and weight columns
@@ -126,7 +126,7 @@ Production-grade fairness metrics system for clinical ML models:
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
 
-> My current work is weighted toward **classical statistical inference** — ANOVA, chi-square, Kruskal–Wallis, OLS regression with assumption diagnostics and model validation — rather than deep learning.
+> His current work is weighted toward **classical statistical inference** — ANOVA, chi-square, Kruskal–Wallis, OLS regression with assumption diagnostics and model validation — rather than deep learning.
 
 ### 🔄 CI/CD & VCS
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -151,7 +151,7 @@ Production-grade fairness metrics system for clinical ML models:
 
 ## 📊 GitHub Stats & Activity
 
-My contribution patterns, language mix, and consistency at a glance.
+Amit's contribution patterns, language mix, and consistency at a glance.
 
 <!--
   NOTE: the public github-readme-stats.vercel.app instance is frequently rate-limited
@@ -200,7 +200,7 @@ My contribution patterns, language mix, and consistency at a glance.
 
 ## 🌟 Why Fairness?
 
-Bias in machine learning isn't theoretical—it directly impacts real lives in healthcare, lending, hiring, and criminal justice. I'm building systems that make fairness measurable, auditable, and enforceable. Every ML model should come with fairness metrics, just like we measure accuracy.
+Bias in machine learning isn't theoretical—it directly impacts real lives in healthcare, lending, hiring, and criminal justice. Amit builds systems that make fairness measurable, auditable, and enforceable, on the principle that every ML model should ship with fairness metrics the same way it ships with accuracy.
 
 ---
 
@@ -217,7 +217,7 @@ Bias in machine learning isn't theoretical—it directly impacts real lives in h
 
 ---
 
-## 🚀 Currently Learning
+## 🚀 Currently Exploring
 
 - Advanced causal inference & counterfactual fairness
 - LLM-based data pipelines and prompt engineering
@@ -240,13 +240,13 @@ Systems administration, infrastructure, cloud fundamentals
 
 ---
 
-## 🔗 Let's Connect
+## 🔗 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amitdevraj/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=googlechrome&logoColor=white)](https://amitrajdev.com.np)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adwrells@gmail.com)
 
-**Interested in:**
+**Open to:**
 - Fairness-focused ML projects
 - Healthcare AI governance  
 - Data science collaboration
