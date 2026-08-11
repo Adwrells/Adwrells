@@ -255,9 +255,6 @@ Systems administration, infrastructure, cloud fundamentals
 ---
 
 ## ❤️ Beyond Code
-
-- Anime enthusiast (One Piece, Dragon Ball Z)
-- Home cook experimenting with global cuisines
 - Open-source advocate & passionate about ethical AI
 - 5+ years in IT before transitioning to data science
 
