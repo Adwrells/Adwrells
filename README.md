@@ -28,8 +28,23 @@ Building trustworthy, transparent data systems that prioritize fairness in machi
 
 ---
 
+### Supply Chain Shipment Summary Tool
+*Python • pandas • Matplotlib • pytest • Agile (Scrum) • Taiga*
+
+A modular Python package that ingests a health-commodity shipment dataset (ARVs and HIV rapid test kits) and turns it into reusable summary functions — built as **Product Owner** across a disciplined one-week Agile sprint with a 4-person team.
+
+- Installable `shipment_tool` package: loader plus country, vendor, and product-group summary modules
+- Data cleaning for real-world messiness — missing values, non-numeric text in cost and weight columns
+- **100% test coverage** across the suite (pytest + pytest-cov), with flake8 and black enforced
+- Branch-per-feature workflow: every user story merged via peer-reviewed pull request
+- Functions return ready-to-use data and figure objects for a future dashboard layer
+
+**Repo:** [supply-chain-shipment-tool](https://github.com/Adwrells/supply-chain-shipment-tool) *(private — course requirement)*
+
+---
+
 ### Healthcare Analytics Platform (Capstone)
-*Python • Streamlit • Healthcare Data • Statistical Analysis*
+*Python • FastAPI • React • TypeScript • SQLite • Statistical Analysis*
 
 A full-stack analytics platform for Emergency Department (ED) performance, built for the DAMO-699 capstone at the University of Niagara Falls Canada. The system ingests Canadian Institute for Health Information (CIHI) emergency department data and delivers:
 - Statistical hypothesis testing
@@ -37,7 +52,7 @@ A full-stack analytics platform for Emergency Department (ED) performance, built
 - Executive dashboards
 - Exportable clinical reports
 
-**Repo:** [Capstone_Project-DAMO-6994](https://github.com/Adwrells/Capstone_Project-DAMO-6994-)
+**Repo:** [Capstone_Project-DAMO-6994](https://github.com/Adwrells/Capstone_Project-DAMO-6994-) *(private while in development)*
 
 ---
 
