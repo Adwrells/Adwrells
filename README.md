@@ -9,7 +9,7 @@ Amit builds trustworthy, transparent data systems that prioritize fairness in ma
 ## 🎯 Areas of Focus
 
 - **AI Fairness & Bias Detection** – Implementing industry-standard fairness metrics in production systems
-- **Healthcare AI Governance** – Building compliance-ready clinical decision support with comprehensive bias auditing
+- **Healthcare AI Governance** – Building compliance-ready clinical decision support with bias auditing across demographic subgroups
 - **Data-Driven Platforms** – End-to-end: Python pipelines → Flask APIs → Docker → AWS → CI/CD automation
 - **Agile Data Science** – Product Owner role managing analytics workflows with Scrum methodology
 
@@ -31,15 +31,15 @@ Amit builds trustworthy, transparent data systems that prioritize fairness in ma
 ### Supply Chain Shipment Summary Tool
 *Python • pandas • Matplotlib • pytest • Agile (Scrum) • Taiga*
 
-A modular Python package that ingests a health-commodity shipment dataset (ARVs and HIV rapid test kits) and turns it into reusable summary functions — built by Amit as **Product Owner** across a disciplined one-week Agile sprint with a 4-person team.
+A modular Python package that ingests a health-commodity shipment dataset (ARVs and HIV rapid test kits) and turns it into reusable summary functions. Amit led the build as Product Owner across a one-week Agile sprint with a 4-person team.
 
 - Installable `shipment_tool` package: loader plus country, vendor, and product-group summary modules
-- Data cleaning for real-world messiness — missing values, non-numeric text in cost and weight columns
-- **100% test coverage** across the suite (pytest + pytest-cov), with flake8 and black enforced
+- Data cleaning for real-world messiness: missing values, non-numeric text in cost and weight columns
+- 100% test coverage across the suite (pytest + pytest-cov), with flake8 and black enforced
 - Branch-per-feature workflow: every user story merged via peer-reviewed pull request
 - Functions return ready-to-use data and figure objects for a future dashboard layer
 
-**Repo:** [supply-chain-shipment-tool](https://github.com/Adwrells/supply-chain-shipment-tool) *(private — course requirement)*
+**Repo:** [supply-chain-shipment-tool](https://github.com/Adwrells/supply-chain-shipment-tool) *(private, course requirement)*
 
 ---
 
@@ -112,7 +112,7 @@ Production-grade fairness metrics system for clinical ML models:
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![better-sqlite3](https://img.shields.io/badge/better--sqlite3-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-> Data access is hand-written **parameterized SQL** against a versioned `schema.sql` — no ORM layer, by design, so query plans and index behaviour stay explicit and auditable.
+> Data access is hand-written parameterized SQL against a versioned `schema.sql`. There is no ORM layer, by design, so query plans and index behaviour stay explicit and auditable.
 
 ### 🎨 Design
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS%20v4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
@@ -126,7 +126,7 @@ Production-grade fairness metrics system for clinical ML models:
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
 
-> His current work is weighted toward **classical statistical inference** — ANOVA, chi-square, Kruskal–Wallis, OLS regression with assumption diagnostics and model validation — rather than deep learning.
+> His current work is weighted toward classical statistical inference rather than deep learning: ANOVA, chi-square, Kruskal–Wallis, and OLS regression with assumption diagnostics and model validation.
 
 ### 🔄 CI/CD & VCS
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -200,7 +200,7 @@ Amit's contribution patterns, language mix, and consistency at a glance.
 
 ## 🌟 Why Fairness?
 
-Bias in machine learning isn't theoretical—it directly impacts real lives in healthcare, lending, hiring, and criminal justice. Amit builds systems that make fairness measurable, auditable, and enforceable, on the principle that every ML model should ship with fairness metrics the same way it ships with accuracy.
+Bias in machine learning isn't theoretical. It directly impacts real lives in healthcare, lending, hiring, and criminal justice. Amit builds systems that make fairness measurable, auditable, and enforceable, on the principle that every ML model should ship with fairness metrics the same way it ships with accuracy.
 
 ---
 
