@@ -1,6 +1,6 @@
 # 👋 Amit Raj
 
-**Data Scientist • AI Fairness & Governance • Healthcare Analytics Platform Builder**
+**Data Analyst • AI Fairness & Governance • Healthcare Analytics Platform Builder**
 
 Amit builds trustworthy, transparent data systems that prioritize fairness in machine learning. Master of Data Analytics student @ UNFC | Platform & Operations Lead @ Synod Intellicare | 4.0 GPA (President's List)
 
