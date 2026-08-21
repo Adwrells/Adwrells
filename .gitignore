@@ -16,6 +16,16 @@
 .claude/settings.local.json
 .claude/worktrees/
 
+# graphify's generated knowledge graph. Derived from source and rebuilt by
+# `graphify update .`, so graph.json and graph.html stay local. GRAPH_REPORT.md is the
+# exception: it is readable and diffs legibly.
+#
+# The pattern is `graphify-out/*`, not `graphify-out/`. Git cannot re-include a file
+# inside an excluded *directory*, so the trailing-slash form would make the negation
+# below silently do nothing.
+graphify-out/*
+!graphify-out/GRAPH_REPORT.md
+
 # OS and editor noise
 .DS_Store
 Thumbs.db
