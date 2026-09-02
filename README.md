@@ -44,15 +44,33 @@ A modular Python package that ingests a health-commodity shipment dataset (ARVs 
 ---
 
 ### Healthcare Analytics Platform (Capstone)
-*Python • FastAPI • React • TypeScript • SQLite • Statistical Analysis*
+*React • TypeScript • Express • FastAPI • SQLite • Statistical Analysis*
 
-A full-stack analytics platform for Emergency Department (ED) performance, built for the DAMO-699 capstone at the University of Niagara Falls Canada. The system ingests Canadian Institute for Health Information (CIHI) emergency department data and delivers:
-- Statistical hypothesis testing
-- Throughput forecasting  
-- Executive dashboards
-- Exportable clinical reports
+A full-stack analytics platform for Emergency Department (ED) performance, built for the DAMO-699 capstone at the University of Niagara Falls Canada. Two services — a React/Vite frontend behind an Express server (port 3000) and a FastAPI analytics backend (port 8000, JWT-secured, 33 routes) — ingest Canadian Institute for Health Information (CIHI) emergency department data and answer one operational question: what drives ED length of stay, and which patient cohorts are most affected?
+
+- Five pre-registered hypotheses (H1–H5) tested with non-parametric methods suited to skewed clinical data
+- Executive dashboard with an Emergency Resource Burden Index (ERBI) and ranked clinical problems
+- Throughput forecasting via exponential smoothing with Mann-Kendall trend detection
+- Post-cleaning overfitting/underfitting diagnostics with learning and complexity curves
+- Multi-format exportable clinical reports, including genuine vector PDF output
+- 299 tests across 20 suites (pytest)
 
 **Repo:** [Capstone_Project-DAMO-6994](https://github.com/Adwrells/Capstone_Project-DAMO-6994-) *(private while in development)*
+
+---
+
+### Nepal Flood Watch
+*Python • FastAPI • SQLite • Leaflet • Docker*
+
+A live multi-hazard flood early-warning console for Nepal. It scrapes the country's official hydrological, disaster, and news sources every 12 minutes, scores all 309 DHM river gauges on a 0–100 Flood Severity Index, and forecasts each gauge's trajectory 12 hours ahead.
+
+- Probability of breaching the danger mark within 6 hours, plus a ranked, lead-time-gated action list per gauge
+- Hazard layers beyond river thresholds: earthquakes (landslide triggers), active fires, official incidents, and 5-source news coverage
+- Models landslide- and moraine-dammed lake outburst floods — the event class behind the July 2025 Rasuwa disaster
+- Interactive map with per-river forecast charts, the nearest of Nepal's 16,295 health facilities, verified emergency numbers, and live SSE-pushed updates
+- CI and CodeQL on every push; 5 of 6 data sources require no API key
+
+**Repo:** [nepal-flood-watch](https://github.com/Adwrells/nepal-flood-watch)
 
 ---
 
